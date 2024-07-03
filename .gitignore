@@ -1,0 +1,5 @@
+.env/
+
+# don't store the scraped papers or the metadata file
+Papers/
+data.json

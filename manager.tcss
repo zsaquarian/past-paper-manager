@@ -1,0 +1,28 @@
+#top {
+  height: 30%;
+}
+
+#middle {
+  height: 5%;
+  text-align: center;
+}
+
+DataTable {
+  height: 70%;
+}
+
+Label {
+  margin-right: 0;
+}
+
+CompletedDisplay {
+  margin-left: 5;
+}
+
+Bar {
+  margin-left: 2;
+}
+
+#progress {
+  margin-left: 5;
+}
